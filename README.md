@@ -4,10 +4,10 @@ Welcome to the Content Management Tool! This tool allows you to easily create, m
 
 ## Features ✨
 
-🔹 Create and edit content with a user-friendly interface.
-🔹 Upload images and videos to enhance your content.
-🔹 Preview your content before publishing.
-🔹 Responsive design for seamless use on any device.
+🔹 Create and edit content with a user-friendly interface. <br>
+🔹 Upload images and videos to enhance your content.<br>
+🔹 Preview your content before publishing.<br>
+🔹 Responsive design for seamless use on any device.<br>
 
 ## Usage 🚀
 
